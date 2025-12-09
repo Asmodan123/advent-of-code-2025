@@ -13,3 +13,7 @@ tasks {
         gradleVersion = "9.2.1"
     }
 }
+
+dependencies {
+    implementation("org.locationtech.jts:jts-core:1.19.0")
+}
