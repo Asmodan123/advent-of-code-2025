@@ -17,4 +17,5 @@ tasks {
 dependencies {
     implementation("org.locationtech.jts:jts-core:1.19.0")
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.8.1")
+    implementation("org.jgrapht:jgrapht-core:1.5.2")
 }
